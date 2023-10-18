@@ -1,4 +1,4 @@
-
+var netWorth = 999.99
 
 
 
