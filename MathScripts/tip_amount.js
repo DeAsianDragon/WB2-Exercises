@@ -7,4 +7,4 @@ var tipTotal = foodCostTotal * 0.15
 //output
 console.log(
     "The tip on a $"+ foodCostTotal 
-+ " food bill is $" + tipTotal)
++ " food bill is $" + tipTotal.toFixed(2))
